@@ -1,0 +1,29 @@
+export const SET_NEW_INSTALL: string = 'SET_NEW_INSTALL';
+export const SET_USER: string = 'SET_USER';
+export const SET_TOKEN: string = 'SET_TOKEN';
+export const SET_USR_LOCATION: string = 'SET_USR_LOCATION';
+export const SET_PICKUP_LOCATION: string = 'SET_PICKUP_LOCATION';
+export const SET_DROPOFF_LOCATION: string = 'SET_DROPOFF_LOCATION';
+export const SET_DELIVERY_MODE: string = 'SET_DELIVERY_MODE';
+export const SET_TRANSPORT_MODES: string = 'SET_TRANSPORT_MODES';
+export const SET_AMOUNT_PER_KM: string = 'SET_AMOUNT_PER_KM';
+export const SET_PACKAGE_TYPES: string = 'SET_PACKAGE_TYPES';
+export const SET_SELECTED_PACKAGE_TYPE: string = 'SET_SELECTED_PACKAGE_TYPE';
+export const SET_PAYMENT_METHODS: string = 'SET_PAYMENT_METHODS';
+export const SET_SELECTED_PAYMENT_MODE: string = 'SET_SELECTED_PAYMENT_MODE';
+export const SET_DELIVERY_DISTANCE: string = 'SET_DELIVERY_DISTANCE';
+export const SET_DELIVERY_FARE: string = 'SET_DELIVERY_FARE';
+export const SET_DELIVERY_NOTE: string = 'SET_DELIVERY_NOTE';
+export const SET_DELIVERY_EST_TIME: string = 'SET_DELIVERY_EST_TIME';
+export const SET_DROPOFF_LOC_NAME: string = 'SET_DROPOFF_LOC_NAME';
+export const SET_DROPOFF_LAT: string = 'SET_DROPOFF_LAT';
+export const SET_DROPOFF_LNG: string = 'SET_DROPOFF_LNG';
+export const SET_DROPOFF_MSISDN: string = 'SET_DROPOFF_MSISDN';
+export const ADD_NEW_DROPOFF: string = 'ADD_NEW_DROPOFF';
+export const REMOVE_DROPOFF_ITEM: string = 'REMOVE_DROPOFF_ITEM';
+export const SET_PICKUP_MSISDN: string = 'SET_PICKUP_MSISDN';
+export const SET_MOMO_ACCOUNT_NO: string = 'SET_MOMO_ACCOUNT_NO';
+export const SET_DELIVERY_AMOUNT: string = 'SET_DELIVERY_AMOUNT';
+
+//MY DELIVERIES
+export const SET_MY_DELIVERIES: string = 'SET_MY_DELIVERIES';
